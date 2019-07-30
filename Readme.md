@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxPopupControl - How to customize a footer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3612)**
+**[[Run Online]](https://codecentral.devexpress.com/e3612/)**
 <!-- run online end -->
 
 
